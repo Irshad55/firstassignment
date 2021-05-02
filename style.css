@@ -1,0 +1,73 @@
+* 
+{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.Join {
+    padding: 100px;
+    height: 50vh;
+}
+.Join h2 {
+    color: cadetblue;
+    padding: 5px;
+}
+.Join h3 {
+    color: greenyellow;
+    padding: 5px;
+}
+.Join p {
+    color: grey;
+    padding: 5px;
+}
+.Sub {
+    padding: 100px;
+    height: 50vh;
+    width: 50%;
+    background-color: cadetblue;
+   color: white;
+   float: left;
+}
+body {
+    font-family: 'Dancing Script', cursive;
+font-family: 'Ubuntu', sans-serif;
+}
+.Sub h2 {
+    padding: 5px
+}
+.Sub p {
+    padding: 5px;
+}
+form input {
+    width: 50%;
+    padding: 10px;
+    border-radius: 6px;
+    border: none;
+}
+input[type="button"]{
+    width: 40%;
+    background-color: greenyellow;
+    color: white;
+}
+.Details {
+    color: white;
+    background-color: teal;
+    width: 50%;
+    height: 50vh;
+    float: left;
+    padding: 50px;
+}
+.Details p {
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
